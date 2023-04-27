@@ -4,6 +4,7 @@ depend/
 include/
 lib/
 obj/
+build/
 
 error_log.txt
 
@@ -17,3 +18,6 @@ win/wincork/*.opensdf
 # in case you're on mac
 .DS_Store
 
+.vscode
+.cache
+compile_commands.json
